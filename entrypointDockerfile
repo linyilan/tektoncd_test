@@ -1,0 +1,2 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.62.1@sha256:6b15857b6de1ed5b1ed1e96f0787d9f310ecca42f23c4783ba0b320903fbf19d
+MAINTAINER linyilan
