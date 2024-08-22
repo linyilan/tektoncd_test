@@ -1,2 +1,2 @@
-FROM mcr.microsoft.com/powershell:nanoserver
+FROM mcr.microsoft.com/powershell
 MAINTAINER linyilan
