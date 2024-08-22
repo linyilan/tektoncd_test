@@ -1,0 +1,2 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/sidecarlogresults:v0.62.1@sha256:a3b767ff854e3a429109b70e2ab1174b5f6bcc38052e3bb50b249b08fec50c29
+MAINTAINER linyilan
