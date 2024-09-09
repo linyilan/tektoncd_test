@@ -1,0 +1,2 @@
+FROM  gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/eventlistenersink:v0.29.1@sha256:d12845f2d3aea7a35616e94959e7b3b2e07386ac9121dae9d6eba91606fb03db
+MAINTAINER linyilan
