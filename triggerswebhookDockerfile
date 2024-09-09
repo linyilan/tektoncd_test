@@ -1,0 +1,2 @@
+FROM  gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.29.1@sha256:6ec798175d57ad3fef752b6c2eddab78145d0d4e1472c79535bf4d9772cd1cca
+MAINTAINER linyilan
