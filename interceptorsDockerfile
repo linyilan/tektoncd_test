@@ -1,0 +1,2 @@
+FROM  gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.29.1@sha256:8de2dd26b46ce62270597b1be6c2a102fcc8828128c186ccc97aa0570f0f8656
+MAINTAINER  linyilan
