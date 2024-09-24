@@ -1,0 +1,2 @@
+FROM quay.io/jaegertracing/jaeger-operator:1.61.0
+MAINTAINER linyilan 
