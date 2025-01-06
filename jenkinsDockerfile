@@ -1,2 +1,3 @@
-FROM jenkins/jenkins:2.479.2-lts@sha256:e728082cd6a2710840ef7d9fdcdc93408eb488aa05d10bc92f4454254e22cc4e
+#FROM jenkins/jenkins:2.479.2-lts@sha256:e728082cd6a2710840ef7d9fdcdc93408eb488aa05d10bc92f4454254e22cc4e
+FROM  jenkins/jenkins:2.479.2-lts-arm64
 MAINTAINER linyilan
