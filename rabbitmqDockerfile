@@ -1,2 +1,3 @@
-FROM rabbitmq:3.8.34-management@sha256:d1dd9f9b78e8610b8c0d24782666c4f7033515d6c894b7e2cca6373f29692a45
+#FROM rabbitmq:3.8.34-management@sha256:d1dd9f9b78e8610b8c0d24782666c4f7033515d6c894b7e2cca6373f29692a45
+FROM rabbitmq:3.8.34-management
 MAINTAINER linyilan
